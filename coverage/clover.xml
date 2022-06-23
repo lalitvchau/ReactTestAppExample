@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1655977538505" clover="3.2.0">
+  <project timestamp="1655977538505" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="8" coveredconditionals="8" methods="8" coveredmethods="8" elements="33" coveredelements="33" complexity="0" loc="17" ncloc="17" packages="2" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="C:\Users\lalitk\Desktop\DGW\src\react-test\my-login-app\src\App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.login">
+      <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7"/>
+      <file name="Login.js" path="C:\Users\lalitk\Desktop\DGW\src\react-test\my-login-app\src\login\Login.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="9" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+      </file>
+      <file name="LoginForm.js" path="C:\Users\lalitk\Desktop\DGW\src\react-test\my-login-app\src\login\LoginForm.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="5" count="27" type="stmt"/>
+        <line num="6" count="27" type="stmt"/>
+        <line num="8" count="27" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+      </file>
+      <file name="LoginStatus.js" path="C:\Users\lalitk\Desktop\DGW\src\react-test\my-login-app\src\login\LoginStatus.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="12" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
